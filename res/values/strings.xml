@@ -1,0 +1,16 @@
+<resources>
+
+    <string name="app_name">Plurals</string>
+
+    <plurals name="items">
+        <item quantity="zero">No items</item>
+        <item quantity="one">1 item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+
+    <plurals name="age">
+        <item quantity="one">1 year old</item>
+        <item quantity="other">%d years old</item>
+    </plurals>
+
+</resources>

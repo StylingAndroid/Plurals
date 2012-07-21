@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <plurals name="items">
+        <item quantity="zero">No items</item>
+        <item quantity="one">1 item</item>
+        <item quantity="other">%d items</item>
+    </plurals>
+    
+    <plurals name="age">
+        <item quantity="one">1 лет</item>
+        <item quantity="few">%d года</item>
+        <item quantity="other">%d лет</item>
+    </plurals>
+
+</resources>
